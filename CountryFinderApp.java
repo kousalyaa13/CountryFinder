@@ -1,4 +1,6 @@
 import javafx.application.Application;
+import javafx.beans.property.SimpleIntegerProperty;
+import javafx.beans.property.SimpleStringProperty;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.scene.layout.*;
@@ -39,4 +41,15 @@ public class CountryFinderApp extends Application {
         searchButton.setOnAction(event -> {
             String searchText = searchField.getText();
             countryTable.getItems().clear();
-            countryTable.getItems().addAll(countryFinder.s
+            countryTable.getItems().addAll(countryFinder.searchByName(searchText));
+        });
+
+        Scene scene = new Scene(vbox, 600, 400);
+        primaryStage.setScene(scene);
+        primaryStage.show();
+    }
+
+    public static void main(String[] args) {
+        launch(args);
+    }
+}

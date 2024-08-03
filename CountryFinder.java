@@ -33,4 +33,56 @@ public class CountryFinder {
         }
         return result;
     }
+
+    public List<Country> searchByCapital(String capital) {
+        List<Country> result = new ArrayList<>();
+        for (Country country : countries) {
+            if (country.getCapital().toLowerCase().startsWith(capital.toLowerCase())) {
+                result.add(country);
+            }
+        }
+        return result;
+    }
+
+    public Country largestPopulation() {
+        if (countries.isEmpty()) return null;
+        Country largest = countries.get(0);
+        for (Country country : countries) {
+            if (country.getPopulation() > largest.getPopulation()) {
+                largest = country;
+            }
+        }
+        return largest;
+    }
+
+    public Country smallestPopulation() {
+        if (countries.isEmpty()) return null;
+        Country smallest = countries.get(0);
+        for (Country country : countries) {
+            if (country.getPopulation() < smallest.getPopulation()) {
+                smallest = country;
+            }
+        }
+        return smallest;
+    }
+
+    public List<Country> searchLargerPopulation(int population) {
+        List<Country> result = new ArrayList<>();
+        for (Country country : countries) {
+            if (country.getPopulation() > population) {
+                result.add(country);
+            }
+        }
+        return result;
+    }
+
+    public List<Country> searchSmallerPopulation(int population) {
+        List<Country> result = new ArrayList<>();
+        for (Country country : countries) {
+            if (country.getPopulation() < population) {
+                result.add(country);
+            }
+        }
+        return result;
+    }
 }

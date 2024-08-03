@@ -1,0 +1,588 @@
+Afghanistan
+Kabul
+35530081
+Albania
+Tirana
+2930187
+Algeria
+Algiers
+41318142
+Andorra
+Andorra la Vella
+76965
+Angola
+Luanda
+29784193
+Antigua and Barbuda
+Saint John's
+102012
+Argentina
+Buenos Aires
+44271041
+Armenia
+Yerevan
+2930450
+Australia
+Canberra
+24450561
+Austria
+Vienna
+8735453
+Azerbaijan
+Baku
+9827589
+Bahamas' The
+Nassau
+395361
+Bahrain
+Manama
+1492584
+Bangladesh
+Dhaka
+164669751
+Barbados
+Bridgetown
+285719
+Belarus
+Minsk
+9468338
+Belgium
+Brussels
+11429336
+Belize
+Belmopan
+374681
+Benin
+Porto-Novo
+11175692
+Bhutan
+Thimphu
+807610
+Bolivia
+La Paz, Sucre
+11051600
+Bosnia and Herzegovina
+Sarajevo
+3507017
+Botswana
+Gaborone
+2291661
+Brazil
+Brasilia
+209288278
+Brunei
+Bandar Seri Begawan
+428697
+Bulgaria
+Sofia
+7084571
+Burkina Faso
+Ouagadougou
+19193382
+Burundi
+Bujumbura
+10864245
+Cambodia
+Phnom Penh
+16005373
+Cameroon
+Yaounde
+24053727
+Canada
+Ottawa
+36624199
+Cape Verde
+Praia
+546388
+Central African Republic
+Bangui
+4659080
+Chad
+N'Djamena
+14899994
+Chile
+Santiago
+18336653
+China
+Beijing
+1420062022
+Colombia
+Bogota
+49849818
+Comoros
+Moroni
+850912
+Congo, Republic of the
+Brazzaville
+5542197
+Congo, Democratic Republic of the
+Kinshasa
+86727573
+Costa Rica
+San Jose
+4999384
+Cote d'Ivoire
+Yamoussoukro
+24294750
+Croatia
+Zagreb
+4140148
+Cuba
+Havana
+11492046
+Cyprus
+Nicosia
+1198427
+Czech Republic
+Prague
+10630589
+Denmark
+Copenhagen
+5775224
+Djibouti
+Djibouti
+985690
+Dominica
+Roseau
+74679
+Dominican Republic
+Santo Domingo
+10996774
+East Timor (Timor-Leste)
+Dili
+1352360
+Ecuador
+Quito
+17100444
+Egypt
+Cairo
+101168745
+El Salvador
+San Salvador
+6445405
+Equatorial Guinea
+Malabo
+1360104
+Eritrea
+Asmara
+5309659
+Estonia
+Tallinn
+1303798
+Ethiopia
+Addis Ababa
+110135635
+Fiji
+Suva
+918757
+Finland
+Helsinki
+5561389
+France
+Paris
+65480710
+Gabon
+Libreville
+2109099
+Gambia, The
+Banjul
+2228075
+Georgia
+Tbilisi
+3904204
+Germany
+Berlin
+82438639
+Ghana
+Accra
+30096970
+Greece
+Athens
+11124603
+Grenada
+Saint George's
+108825
+Guatemala
+Guatemala City
+17577842
+Guinea
+Conakry
+13398180
+Guinea-Bissau
+Bissau
+1953723
+Guyana
+Georgetown
+786508
+Haiti
+Port-au-Prince
+11242856
+Honduras
+Tegucigalpa
+9568688
+Hungary
+Budapest
+9655361
+Iceland
+Reykjavik
+340566
+India
+New Delhi
+1368737513
+Indonesia
+Jakarta
+269536482
+Iran
+Tehran
+82820766
+Iraq
+Baghdad
+40412299
+Ireland
+Dublin
+4847139
+Israel
+Jerusalem
+8583916
+Italy
+Rome
+59216525
+Jamaica
+Kingston
+2906339
+Japan
+Tokyo
+126854745
+Jordan
+Amman
+10069794
+Kazakhstan
+Astana
+18592970
+Kenya
+Nairobi
+52214791
+Kiribati
+Tarawa Atoll
+120428
+Korea, North
+Pyongyang
+25727408
+Korea, South
+Seoul
+51339238
+Kosovo
+Pristina
+1983105
+Kuwait
+Kuwait City
+4248974
+Kyrgyzstan
+Bishkek
+6218616
+Laos
+Vientiane
+7064242
+Latvia
+Riga
+1911108
+Lebanon
+Beirut
+6065922
+Lesotho
+Maseru
+2298682
+Liberia
+Monrovia
+4977720
+Libya
+Tripoli
+6569864
+Liechtenstein
+Vaduz
+38404
+Lithuania
+Vilnius
+2846459
+Luxembourg
+Luxembourg
+596992
+Macedonia
+Skopje
+2086720
+Madagascar
+Antananarivo
+26968642
+Malawi
+Lilongwe
+19718743
+Malaysia
+Kuala Lumpur
+32454455
+Maldives
+Male
+451738
+Mali
+Bamako
+19689140
+Malta
+Valletta
+433245
+Marshall Islands
+Majuro
+53211
+Mauritania
+Nouakchott
+4611149
+Mauritius
+Port Louis
+1271368
+Mexico
+Mexico City
+132328035
+Micronesia, Federated States of
+Palikir
+106983
+Moldova
+Chisinau
+4029750
+Monaco
+Monaco
+39102
+Mongolia
+Ulaanbaatar
+3166244
+Montenegro
+Podgorica
+629355
+Morocco
+Rabat
+36635156
+Mozambique
+Maputo
+31408823
+Myanmar (Burma)
+Naypyidaw
+54336138
+Namibia
+Windhoek
+2641996
+Nauru
+Yaren District
+11260
+Nepal
+Kathmandu
+29942018
+Netherlands
+Amsterdam
+17132908
+New Zealand
+Wellington
+4792409
+Nicaragua
+Managua
+6351157
+Niger
+Niamey
+23176691
+Nigeria
+Abuja
+200962417
+Norway
+Oslo
+5400916
+Oman
+Muscat
+5001875
+Pakistan
+Islamabad
+204596442
+Palau
+Melekeok
+22206
+Panama
+Panama City
+4226197
+Papua New Guinea
+Port Moresby
+8586525
+Paraguay
+Asuncion
+6981981
+Peru
+Lima
+32933835
+Philippines
+Manila
+108106310
+Poland
+Warsaw
+38028278
+Portugal
+Lisbon
+10245666
+Qatar
+Doha
+2743901
+Romania
+Bucharest
+19483360
+Russia
+Moscow
+143895551
+Rwanda
+Kigali
+12794412
+Saint Kitts and Nevis
+Basseterre
+56345
+Saint Lucia
+Castries
+180454
+Saint Vincent and the Grenadines
+Kingstown
+110488
+Samoa
+Apia
+198909
+San Marino
+San Marino
+33683
+Sao Tome and Principe
+Sao Tome
+213379
+Saudi Arabia
+Riyadh
+34140662
+Senegal
+Dakar
+16743859
+Serbia
+Belgrade
+8733407
+Seychelles
+Victoria
+95702
+Sierra Leone
+Freetown
+7883123
+Singapore
+Singapore
+5868104
+Slovakia
+Bratislava
+5450987
+Slovenia
+Ljubljana
+2081900
+Solomon Islands
+Honiara
+635254
+Somalia
+Mogadishu
+15636170
+South Africa
+Pretoria, Cape Town, Bloemfontein
+58068097
+South Sudan
+Juba
+13263184
+Spain
+Madrid
+46441049
+Sri Lanka
+Colombo, Sri Jayewardenepura Kotte
+21018859
+Sudan
+Khartoum
+42514094
+Suriname
+Paramaribo
+573085
+Swaziland
+Mbabane
+1415414
+Sweden
+Stockholm
+10053135
+Switzerland
+Bern
+8609259
+Syria
+Damascus
+18499181
+Taiwan
+Taipei
+23626456
+Tajikistan
+Dushanbe
+9292000
+Tanzania
+Dodoma
+60913557
+Thailand
+Bangkok
+69306160
+Togo
+Lome
+8186384
+Tonga
+Nuku'alofa
+110041
+Trinidad and Tobago
+Port-of-Spain
+1375443
+Tunisia
+Tunis
+11783168
+Turkey
+Ankara
+82961805
+Turkmenistan
+Ashgabat
+5942561
+Tuvalu
+Funafuti
+11393
+Uganda
+Kampala
+42862958
+Ukraine
+Kyiv
+44222947
+United Arab Emirates
+Abu Dhabi
+9400145
+United Kingdom
+London
+66181585
+United States of America
+Washington D.C.
+324459463
+Uruguay
+Montevideo
+3456750
+Uzbekistan
+Tashkent
+31910641
+Vanuatu
+Port-Vila
+276244
+Vatican City (Holy See)
+Vatican City
+792
+Venezuela
+Caracas
+31977065
+Vietnam
+Hanoi
+95540800
+Yemen
+Sanaa
+28250420
+Zambia
+Lusaka
+17094130
+Zimbabwe
+Harare
+16529904
